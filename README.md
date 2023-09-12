@@ -1,2 +1,1 @@
-# Template build a package with rollup, reactjs, typescript
-
+# Template build a package with rollup, svelte, typescript
